@@ -1,6 +1,6 @@
 # 练习 3：Bash：Shell、`.profile`、`.bashrc`、`.bash_history`。
 
-> 原文：[Exercise 3. Bash: The shell, .profile, .bashrc, .bash_history](https://archive.fo/DKP67
+> 原文：[Exercise 3. Bash: The shell, .profile, .bashrc, .bash_history](https://archive.fo/DKP67)
 
 > 译者：[飞龙](https://github.com/wizardforcel)
 
